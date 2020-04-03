@@ -1,2 +1,2 @@
 # mcpltest
- A test project using MCProtocolLib
+ A test project using MCProtocolLib.
